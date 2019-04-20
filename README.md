@@ -1,10 +1,8 @@
 # eventApp
-SpringBoot + Spring Data JPA .
+SpringBoot + Spring Data JPA .(CRUD)
 
 #IDE : Intellij IDEA 2018.2.4 (Community Edition) 
-
 Run Spring Boot app using Maven: 
-
 mvn spring-boot:run
 
 
@@ -18,6 +16,13 @@ mvn install
 
 Run Spring Boot app with java -jar command:
 java -jar target/mywebserviceapp-0.0.1-SNAPSHOT.jar
+
+
+
+
+
+
+
 
 
 
