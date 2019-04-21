@@ -17,7 +17,7 @@ training/meeting(reunion).
 
 
 
-# ²Identifications of the actors
+# Identifications of the actors
 
 As part of our analysis, the actors we have identified are:
 
