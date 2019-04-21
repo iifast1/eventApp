@@ -13,7 +13,7 @@ _____________________________________
 
 eventApp is application for making room reservation for 2 types of rooms : 
 
-training/meeting(reunion).
+training(formation)/meeting(reunion).
 
 
 
