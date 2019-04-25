@@ -2,7 +2,7 @@
 
 #IDE : Intellij IDEA 2018.2.4 (Community Edition). 
 
-#postman : testing (localhost:8080/createsalle    > Headers>__key:Content-Type ___  __Value:application/json) 
+#postman : testing (localhost:8080/createsalle    > Headers>__key:Content-Type __Value:application/json) 
 
 
 Run Spring Boot app using Maven: 
