@@ -2,7 +2,7 @@
 
 #IDE : Intellij IDEA 2018.2.4 (Community Edition). 
 
-#postman : testing (localhost:8080/createsalle    > Headers>__```key:Content-Type __Value:application/json) 
+#postman : testing (localhost:8080/createsalle    > Headers>   ```key:Content-Type___Value:application/json```) 
 
 
 Run Spring Boot app using Maven: 
@@ -20,10 +20,11 @@ training(formation)/meeting(reunion).
 
 # Identifications of the actors
 
+
 As part of our analysis, the actors we have identified are:
 
 
-• The administrator(super admin) : he is responsible for the different settings of the application. Its role is to manage 
+• [The administrator](#super admin) : he is responsible for the different settings of the application. Its role is to manage 
 
 environments and users.
 
