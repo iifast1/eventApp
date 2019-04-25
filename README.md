@@ -24,7 +24,7 @@ training(formation)/meeting(reunion).
 As part of our analysis, the actors we have identified are:
 
 
-• [The administrator](#super admin) : he is responsible for the different settings of the application. Its role is to manage 
+• * [The administrator](#super admin) : he is responsible for the different settings of the application. Its role is to manage 
 
 environments and users.
 
